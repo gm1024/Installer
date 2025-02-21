@@ -1,3 +1,6 @@
+这是一个Windows应用安装程序， 主界面使用CustomTinker编写，包含MySQL服务注册，Redis服务注册等
+
+
 1. 打包
 运行 build.bat
 在 dist 目录下得到 appInstaller.exe
