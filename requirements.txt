@@ -1,0 +1,6 @@
+customtkinter==5.2.2
+pyinstaller==5.7.0
+pyinstaller-hooks-contrib==2023.3
+PySimpleGUI==4.60.5
+redis==4.6.0
+
