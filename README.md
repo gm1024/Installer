@@ -31,3 +31,9 @@ MySQL 及 Redis 将被注册成系统服务自动启动。
 1) 启动 appInstaller.exe
 2) 切换到 "卸载"
 3) 点击 "卸载"
+
+<img width="1304" height="1060" alt="安装界面1" src="https://github.com/user-attachments/assets/39a98507-ebf4-4f98-af53-6a4264f253b3" />
+
+<img width="1304" height="1060" alt="安装界面2" src="https://github.com/user-attachments/assets/5ba4ab22-1aa1-4527-b179-de203d11dc6f" />
+
+<img width="1304" height="1060" alt="安装界面3" src="https://github.com/user-attachments/assets/43b45d03-a0e7-4b9d-a7fd-6ca44ad32fd9" />
